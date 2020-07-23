@@ -1,0 +1,205 @@
+.he1{
+    margin: 0px;
+    height: 100px;
+    background-color: rgb(228, 85, 85);
+}
+.he1 h1{
+    padding-top: 0px ;
+    color: #fff;
+    font-family: cursive;
+}
+.he1 h1 span{
+    color: yellow;
+}
+.he1 h1 i{
+    margin-left: -3px;
+}
+.he1 li {
+    display: inline;
+    padding-right: 30px;
+    
+}
+.he1 i{
+    margin-left: 80px;
+    margin-top: 40px;
+    color: #fff;
+}
+.he2{
+    padding-left: 20px;
+    height: 70px;
+    border-bottom: black solid 0.5px;
+}
+.he2 a{
+    color: rgb(228, 85, 85);
+    font-weight: 800;
+    padding-top: 20px;
+    
+}
+.he3{
+    height: 550px;
+    margin-top: 40px;
+}
+.he3 h1{
+    color: rgb(228, 85, 85);
+    font-family: cursive;
+}
+.he3 img{
+    padding-left: 40px;
+}
+.he4{
+    margin-top: 0px;
+    height: 700px;
+    background-color: rgb(228, 85, 85);
+}
+.he4 h1{
+    color: #fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: cursive;
+}
+.he5{
+    margin-top: 0px;
+    height: 650px;
+    padding-top: 30px;
+}
+.he5 h1{
+    padding-bottom: 30px;
+    color: rgb(228, 85, 85);
+    font-family: cursive;
+}
+.he5 h3 {
+    color: rgb(228, 85, 85);
+    padding-bottom: 20px;
+    font-family: cursive;
+}
+.he5 img{
+    border: #fff solid 1px;
+    border-radius: 25%;
+}
+.he5 p{
+    text-align: justify;
+    padding-top: 20px;
+    font-weight: 600;
+}
+.he6{
+    margin-top: 0px;
+    height: 500px;
+    padding-top: 30px;
+    background-color: rgb(228, 85, 85);
+}
+.he6 h1{
+    color: #fff;
+    font-family: cursive;
+}
+.he6 p{
+    padding-top: 50px;
+    text-align: justify;
+    padding-left: 100px;
+    color: #000000;
+    font-size: 30px;
+}
+.he6 button{
+    margin-left: 100px;
+    color: rgb(228, 85, 85);
+    font-weight: 700;
+}
+.he7{
+    margin-top: 0px;
+    height: 500px;
+    background-image: url(../image/birthday.jpg); 
+    background-repeat: no-repeat;
+}
+
+.centered h2{
+    padding-top: 50px;
+    text-align: center;
+    font-weight: 900;
+    color: tomato;
+    font-family: cursive;
+    font-style: oblique;
+}
+.centered p{
+    padding-top: 50px;
+    font-weight: 700;
+    color: tomato;
+    text-align: center;
+    font-size: 30px;
+}
+.centered button{
+    margin-top: 40px;
+    margin-left: 610px;
+}
+.he8{
+    margin-top: 0px;
+    height: 450px;
+    padding-top: 30px;
+}
+.he8 h1{
+    color: rgb(228, 85, 85);
+    font-family: cursive;
+}
+.he8 h3 {
+    padding-left: 50px;
+    padding-top: 10px;
+}
+.he9{
+    margin-top: 20px;
+    padding-top: 30px;
+    height: 1000px;
+    background-color: rosybrown;
+    background-size: cover;
+}
+.he9 h1{
+    padding-bottom: 20px;
+    color: rgb(228, 85, 85);
+    font-family: cursive;
+}
+.he9 button {
+    margin-top: 20px;
+    margin-left: 45px;
+    margin-bottom: 20px;
+}
+.he9 img{
+    border-radius: 10%;
+}
+#more{
+    margin-top: 80px;
+    background-color: #fff;
+    color: black;
+    padding: 20px;
+}
+#more:hover{
+    background-color: rosybrown;
+}
+.foot{
+    margin-top: 0px;
+    height: 220px;
+    background-color: rgb(61, 59, 59);
+}
+.foot h2{
+    padding-top: 30px;
+    color: #fff;
+    padding-bottom: 20px;
+}
+.foot a{
+    color: #fff;
+}
+.foot button{
+    margin-top: 40px;
+    background-color: #fff;
+    color: black;
+    font-weight: 800;
+}
+footer{
+    margin-top: 0px;
+    background-color: black;
+    height: 100px;
+}
+footer p{
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+    line-height: 0.5;
+}
+
+
